@@ -1,0 +1,6 @@
+git init 
+git add 
+git commit -m "Initial commit"
+
+git remote add orgin https://github.com/Bolotz/project.git
+git push -u origin master 
